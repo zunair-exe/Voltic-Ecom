@@ -3,13 +3,13 @@ import Heading from '../Shared/Heading'
 import ProductCard from './ProductCard'
 
 //images import 
-import Img1 from '../../assets/Product/p-1.jpg';
-import Img2 from '../../assets/Product/p-2.jpg';
-import Img3 from '../../assets/Product/p-3.jpg';
-import Img4 from '../../assets/Product/p-4.jpg';
-import Img5 from '../../assets/Product/p-5.jpg';
-import Img6 from '../../assets/Product/p-9.jpg';
-import Img7 from '../../assets/Product/p-7.jpg';
+import Img1 from '../../assets/product/p-1.jpg';
+import Img2 from '../../assets/product/p-2.jpg';
+import Img3 from '../../assets/product/p-3.jpg';
+import Img4 from '../../assets/product/p-4.jpg';
+import Img5 from '../../assets/product/p-5.jpg';
+import Img6 from '../../assets/product/p-9.jpg';
+import Img7 from '../../assets/product/p-7.jpg';
 
 const ProductsData = [
     {
@@ -92,3 +92,4 @@ const Products = () => {
 }
 
 export default Products
+
